@@ -1,2 +1,1 @@
-# JacksHomepage
-JacksHomepage
+# Canvas-Version-of-Lukes-Homepage
